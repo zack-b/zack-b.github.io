@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Zack B
-description: 
+logo: 
+description:
+show_downloads: no
+theme: jekyll-theme-minimal
