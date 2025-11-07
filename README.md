@@ -25,6 +25,7 @@ Boys & Girls Clubs of Whatcom County
 - Handled administrative functions, including member admissions, donation processing, and daily member check-ins/outs. 
 
 ## Projects
+
 ### Analysis of Assembly Line Defects in Flux Capacitor Production
 [Report](.pdf)
 
@@ -32,3 +33,11 @@ A data-driven analysis of assembly line defects in flux capacitor production to 
 
 ![Assembly Line Defects Over Time](flux_capacitor_data.png)\
 _Page 3 of Report_
+
+### Investigation of Traffic Flow Patterns Around International Border Crossings
+[Report](.pdf)
+
+A data-driven analysis of traffic flow patterns around international border crossings to identify congestion points and provide traffic management recommendations.
+
+![Investigation of Traffic Flow Patterns](border_map.png)\
+_Page 15 of Report_
