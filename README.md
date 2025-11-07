@@ -1,7 +1,8 @@
 # Computer Information Systems Student
 
 ## Education 
-- AAS, Computer Information Systems | Whatcom Community College (In Progress)
+**Associate of Applied Science – Computer Information Systems**
+Whatcom Community College (_2024 - 2026_)(In Progress)
 
 ## Work Experience
 **Resident Advisor**
