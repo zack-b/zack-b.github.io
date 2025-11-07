@@ -1,4 +1,4 @@
-# zack-b.github.io
+# Computer Information Systems Student
 
 ## Education
 
