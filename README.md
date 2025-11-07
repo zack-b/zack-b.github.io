@@ -2,7 +2,7 @@
 
 ## Education 
 **Associate of Applied Science – Computer Information Systems**
-Whatcom Community College (_2024 - 2026_)(In Progress)
+Whatcom Community College (_2024 - 2026_) (In Progress)
 
 ## Work Experience
 **Resident Advisor**
