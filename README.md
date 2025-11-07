@@ -1,5 +1,9 @@
 # Computer Information Systems Student
 
+## Contact Me 
+**Email:** zack@placeholder.org\
+**Linkedin:** [https://www.linkedin.com/in/zack](https://www.linkedin.com/in/)  
+
 ## Education 
 **Associate of Applied Science – Computer Information Systems**\
 Whatcom Community College (_2024 - 2026_) (In Progress)
