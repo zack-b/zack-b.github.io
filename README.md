@@ -37,7 +37,15 @@ _Page 3 of Report_
 ### Investigation of Traffic Flow Patterns Around International Border Crossings
 [Report](.pdf)
 
-A data-driven analysis of traffic flow patterns around international border crossings to identify congestion points and provide traffic management recommendations.
+An analysis of traffic flow patterns around international border crossings to identify congestion points and provide traffic management recommendations.
 
 ![Investigation of Traffic Flow Patterns](border_map.png)\
 _Page 15 of Report_
+
+### Monitoring Baggage Handling Errors Across Major International Airports
+[Report](.pdf)
+
+A website that monitors baggage handling errors at major international airports in real time and displays ongoing issues at select locations.
+
+![Monitoring Baggage Handling Errors](baggage_website.png)\
+_Screenshot of Main Page_
