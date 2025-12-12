@@ -1,5 +1,7 @@
 # Computer Information Systems Student
 
+I’m Zack, a Computer Information Systems student currently building practical skills in networking, cybersecurity, and computer operating systems. Through my coursework and involvement in various community roles, I've developed skills in interpersonal communication, organization, problem-solving, and supporting diverse populations in difficult situations. I'm always looking for opportunities to learn and contribute to the teams I’m part of, and I look forward to continuing to grow a career in the CIS field.
+
 ## Contact Me 
 **Email:** zack@placeholder.org\
 **Linkedin:** [https://www.linkedin.com/in/zack](https://www.linkedin.com/in/)  
