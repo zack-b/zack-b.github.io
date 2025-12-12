@@ -48,7 +48,7 @@ An analysis of traffic flow patterns around international border crossings to id
 _Page 15 of Report_
 
 ### Monitoring Baggage Handling Errors Across Major International Airports
-[Report](.pdf)
+[Repository](.pdf)
 
 A website that monitors baggage handling errors at major international airports in real time and displays ongoing issues at select locations.
 
