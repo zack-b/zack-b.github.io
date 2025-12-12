@@ -15,18 +15,19 @@ Whatcom Community College
 - Planned and coordinated monthly events for 100+ students.
 - Provided orientation, training, and ongoing guidance to new staff members.
 - Developed, implemented, and utilized emergency response and incident reporting procedures to ensure student safety.
-- Supported students and resolved conflicts through communication and referrals to local services.
+- Supported students and resolved conflicts through communication and referrals to campus and community resources.
 - Upheld provisions of the student housing contract and code of conduct.
-- Performed administrative duties, including handling calls, managing schedules, and liaising with other departments.
+- Performed administrative duties, including handling calls, managing schedules, and coordinating with other departments.
+
 
 **Youth Worker**
 Boys & Girls Clubs of Whatcom County
 (_Apr 2023 - Aug 2023_)
-- Supervised and mentored 30+ club members (ages 6-13) to ensure safety, inclusion, and engagement during programs. 
-- Developed and led a diverse range of educational and athletic programs focused on developing real-world skills. 
-- Resolved interpersonal conflicts using positive behavior strategies and emotional support. 
-- Planned, prepared, and served healthy meals daily. 
-- Handled administrative functions, including member admissions, donation processing, and daily member check-ins/outs. 
+- Supervised and mentored 30+ club members (ages 6-13) to ensure safety, inclusion, and engagement during programs.
+- Developed and led a diverse range of educational and athletic programs focused on building real-world skills.
+- Resolved interpersonal conflicts using positive behavior strategies and emotional support.
+- Planned, prepared, and served healthy meals daily.
+- Handled administrative tasks, including member admissions, donation processing, and daily member check-ins/outs
 
 ## Projects
 
